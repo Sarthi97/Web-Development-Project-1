@@ -1,7 +1,9 @@
 ✨ Quote Machine (Vanilla JS)
+
 A clean and modern quote machine built with fundamental web technologies: HTML, CSS, and JavaScript. This project focuses on providing a great user experience with smooth animations, responsive design, and useful features, all without relying on any external frameworks.
 
 ✅ Core Features
+
 Dynamic Quote Display: Fetches from a collection of over 25 unique quotes.
 
 Non-Repeating Shuffle: Uses the Fisher-Yates algorithm to ensure you see every quote in a category before any repeats.
@@ -27,9 +29,11 @@ Fully Responsive: Designed with a mobile-first approach to look and work perfect
 Progressive Enhancement: A default static quote is displayed if JavaScript is disabled, ensuring content is always accessible.
 
 🚀 How to Run
+
 No complex setup required! Simply open the index.html file in any modern web browser to run the application locally.
 
 🛠️ Technologies Used
+
 HTML5: For the core structure and content.
 
 CSS3: For all styling, including gradients, animations, and responsive design using Flexbox and CSS Variables.
